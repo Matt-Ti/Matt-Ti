@@ -1,6 +1,6 @@
 ### Olá! Eu sou Mateus Santos!
 
-- 💻 Hoje trabalho com Back End.
+- 💻 Back End.
 - 📓 No momento estou estudando Javascript com Node.js, trabalhando junto com o Framework Express.
 
 <div>
