@@ -1,7 +1,7 @@
 ### Olá! Eu sou Mateus Santos!
 
-- 💻 Back End.
-- 📓 No momento estou estudando Javascript com Node.js, trabalhando junto com o Framework Express.
+- 💻 Front End.
+- 📓 Estudante de desenvolvimento front end HTML | CSS | JAVASCRIPT
 
 <div>
   <a href="https://github.com/Matt-Ti">
